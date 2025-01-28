@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 200px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
